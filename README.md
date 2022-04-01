@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SziuL
+- 👋 Hi, I’m Luiz!
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Blockchain
