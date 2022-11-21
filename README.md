@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuizSabadini
 - 👀 I’m interested in proggraming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Solidity and Python
 - 💞️ I’m looking to collaborate on enterprises
 - 📫 How to reach me luizsabadinis@gmail.com
 
